@@ -14,5 +14,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-* Then run ```python main.py```
+* Then run ```python3 main.py```
 * Open browser ```http://0.0.0.0:8000/docs```
